@@ -1,4 +1,4 @@
-### The HR department at Salifort Motors is keen to enhance employee satisfaction by predicting whether an employee is likely to leave the company based on various factors. To achieve this, they have collected employee data that includes key variables influencing employee turnover. The goal of this project is to conduct an in-depth analysis of the dataset and develop predictive models to identify patterns and factors contributing to employee attrition.
+### The HR department wants to enhance employee satisfaction by predicting whether an employee is likely to leave the company based on various factors. To achieve this, they have collected employee data that includes key variables influencing employee turnover. The goal of this project is to conduct an in-depth analysis of the dataset and develop predictive models to identify patterns and factors contributing to employee attrition.
 
 ## The deliverables include:
 
